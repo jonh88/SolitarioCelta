@@ -1,0 +1,6 @@
+<resources>
+
+    <!-- Tamaño del botón -->
+    <dimen name="button_side">35dp</dimen>
+    
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Solitario Celta</string>
+    <string name="txtSinImplementar">¡No implementado aún!</string>
+    <string name="txtReiniciarPartida">Reiniciar</string>
+    <string name="txtOpcionGuardar">Guardar Partida</string>
+    <string name="txtOpcionRecuperar">Recuperar Partida</string>
+    <string name="txtOpcionMejoresResultados">Mejores Resultados</string>
+    <string name="txtOpcionBorrarResultados">Borrar Resultados</string>
+    <string name="txtEligePartidaGuardad">Elige una partida para cargar</string>
+    <string name="txtMejoresResultados">Mejores resultados</string>
+
+    <!-- Diálogo Final -->
+    <string name="txtDialogoFinalTitulo">Fin del juego</string>
+    <string name="txtDialogoFinalPregunta">¿Quiere jugar otra partida?</string>
+    <string name="txtDialogoFinalAfirmativo">Sí</string>
+    <string name="txtDialogoFinalNegativo">No</string>
+
+    <!-- Input dialog -->
+    <string name="txtInputDialogQuestion">Nombre de la partida:</string>
+    <string name="txtInputDialogTitle">Guardar partida</string>
+    <string name="txtInputDialogOK">Guardar</string>
+    <string name="txtInputDialogCancel">Cancelar</string>
+    <string name="txtSavedGame">Partida guardada</string>
+    <string name="txtIntroduceName">Introduce un nombre para la partida</string>
+
+    <!-- dialog cargar partida -->
+    <string name="txtCargarPartidaDialog">¿Desea cargar esta partida?</string>
+    <string name="txtCargarPartidaDialogTitle">Cargar partida</string>
+
+    <!-- dialog sobreescribir partida -->
+    <string name="sobreescribirDialog">Existe una partida empezada, ¿Desea descartarla?</string>
+    <string name="sobreescribirDialogTitle">Cargar partida</string>
+    <string name="sobreescribirDialogOK">Aceptar</string>
+
+    <!-- dialog sobreescribir partida -->
+    <string name="borrarScoresDialog">¿Desea borrar las últimas puntuaciones?</string>
+    <string name="borrarScoresDialogTitle">Borrar puntuaciones</string>
+
+    <!-- Acerca de -->
+    <string name="aboutText">Acerca de</string>
+    <string name="aboutMessage">El juego consiste en ir comiendo piezas
+    (en horizontal o en vertical) hasta conseguir que sólo quede una pieza
+    en el centro. En cada movimiento, la pieza puede saltar solo una pieza.</string>
+
+    <!-- Preferencias -->
+    <string name="preferencesText">Ajustes</string>
+    <string name="prefTituloCategoria1">Datos personales</string>
+    <string name="prefTituloNombreJugador">Nombre del jugador</string>
+    <string name="prefTextoNombreJugador">Pulse para teclear el nombre del jugador</string>
+    <string name="prefTituloCategoria2">Ajustes del juego</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
